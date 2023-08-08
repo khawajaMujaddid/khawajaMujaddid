@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a product to track companies and employee records.<br>I’m looking to collaborate on ruby on rails or react projects.<br>I’m looking for help with learning new technologies.<br>I’m currently learning node js.<br>You can ask me about Ruby on Rails.<br>
+I’m currently working on a product that can remove the background from a video and add different backgrounds.<br>I’m looking to collaborate on ruby on rails or react projects.<br>I’m looking for help with learning new technologies.<br>I’m currently learning node js.<br>You can ask me about Ruby on Rails.<br>
 
 
 ## 🌐 Socials:
